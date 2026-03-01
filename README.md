@@ -31,14 +31,14 @@ A simple Python project to analyze daily temperature readings from 4 weather sta
 **Normalized Data:** 
 ```
 [[0.33 0.11 0.88 0.72 0.49]
-[0. 0.35 0.84 0.58 0.29]
-[1. 0.78 0.07 0.42 0.66]
-[0.18 0.39 0.92 0.68 0.34]]
+ [0.   0.35 0.84 0.58 0.29]
+ [1.   0.78 0.07 0.42 0.66]
+ [0.18 0.39 0.92 0.68 0.34]]
 ```
 
 ---
 
-## ⚠️ Important Notes :-  
+## ⚠️ Important Notes  
 - Only **NumPy** is required.  
 - Notebook is ready for submission with all outputs visible.
 - All steps follow the assignment instructions.
