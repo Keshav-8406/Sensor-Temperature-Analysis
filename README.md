@@ -42,3 +42,10 @@ A simple Python project to analyze daily temperature readings from 4 weather sta
 - Only **NumPy** is required.  
 - Notebook is ready for submission with all outputs visible.
 - All steps follow the assignment instructions.
+
+---
+
+## 👨‍💻 Author
+
+**Keshav Kaushik**  
+B.Sc Computer Science Student
