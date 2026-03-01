@@ -36,7 +36,7 @@ A simple Python project to analyze daily temperature readings from 4 weather sta
 
 ---
 
-** ⚠️ Important Notes :-**  
+## ⚠️ Important Notes :-  
 - Only **NumPy** is required.  
 - Notebook is ready for submission with all outputs visible.
 - All steps follow the assignment instructions.
